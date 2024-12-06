@@ -5,3 +5,4 @@
 
 Pagina do portifolio 
 *comando git push
+*comando git pull
