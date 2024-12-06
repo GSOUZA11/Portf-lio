@@ -6,3 +6,4 @@
 Pagina do portifolio 
 *comando git push
 *comando git pull
+*comando git fetch
